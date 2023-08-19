@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mr programmer</h1>
+<h3 align="center">welcome to the Club PAL</h3>
 
-<!--
-**mrprogramm3r/mrprogramm3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m allways Learning python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📡 I’m currently learning **CyberSecurity** & **Ai
+
+- 📫 How to reach me **iliakoraitik@gmail.com**
+ 
+<center>
+    <table>
+        <tr>
+            <td>
+                <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=mrprogramm3r&show_icons=true&theme=react&hide_border=true" />
+            </td>
+            <td>
+                <img width="400px" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mrprogramm3r&theme=react&hide_border=true" />
+            </td>
+        </tr>
+    </table>
+</center>  
+
+---
+
+## Github Trophies: 🏆️
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=mrprogramm3r&theme=nord&hide_border=true&no-frame=true&row=1&column=7" alt="cifertech points"/>
+</p>
