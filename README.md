@@ -2,7 +2,7 @@
 <h3 align="center">welcome to the Club PAL</h3>
 
 
-- 🔭 I’m allways Learning python
+- 🔭 I am allways Learning python
 
 - 📡 I’m currently learning **CyberSecurity** & **Ai
 
