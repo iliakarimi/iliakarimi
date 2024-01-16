@@ -6,8 +6,6 @@
 
 - 📡 I’m currently learning **CyberSecurity** & **Ai
 
-- 📫 How to reach me **iliakoraitik@gmail.com**
- 
 <center>
     <table>
         <tr>
