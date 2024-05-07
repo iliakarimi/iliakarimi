@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mr programmer</h1>
-<h3 align="center">welcome to the Club PAL</h3>
+<h1 align="center">Hi 👋, This is Mr programmerr</h1>
+<h3 align="center">welcome to the Mr programmerr github Profile</h3>
 
 
 - 🔭 I am allways Learning python
