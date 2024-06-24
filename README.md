@@ -8,13 +8,3 @@
 <img width="80px" align="center" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" />
 <img width="80px" align="center" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" />
 
-<center>
-    <table>
-        <tr>
-            <td>
-                <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" alt="Fox" width="150" height="25" />
-            </td>
-</center>  
-
----
-
