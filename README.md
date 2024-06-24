@@ -4,7 +4,7 @@
 
 - Summary of Skills and Abilities:
   I'm Enthusiastic programmer with expertise in Python and Django, experienced in working with MySQL, git, object-oriented concepts, NoSQL and SQL, and Flask.        Highly killed in quick learning and self-learning😮‍💨.
-<img width="400px" align="left" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" />
+<img width="80px" align="left" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" />
 
 <center>
     <table>
