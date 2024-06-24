@@ -11,3 +11,5 @@
 <img width="80px" align="right" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" />
 <img width="80px" align="right" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" />
 
+<figure><embed src="https://wakatime.com/share/@499a1389-1e5c-4311-ad6a-5469d29d9893/dd176dae-127f-4770-949f-ec58fc3e8734.svg"></embed></figure>
+
