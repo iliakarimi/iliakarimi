@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, This is Mr programmerr</h1>
-<h3 align="center">welcome to the Mr programmerr github Profile</h3>
+<h1 align="center">Hi ,I'm Mr programmerr</h1>
+<h3 align="center">welcome to my github Profile</h3>
 
 
-- 🔭 I am allways Learning python
-
-- 📡 I’m currently learning **CyberSecurity** & **Ai
+- Summary of Skills and Abilities:
+  I'm Enthusiastic programmer with expertise in Python and Django, experienced in working with MySQL, git, object-oriented concepts, NoSQL and SQL, and Flask.        Highly killed in quick learning and self-learning😮‍💨.
 
 <center>
     <table>
         <tr>
             <td>
-                <img width="400px" align="center" src="[https://github-readme-stats.vercel.app/api?username=mrprogramm3r&show_icons=true&theme=react&hide_border=true](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" />
+                <img width="400px" align="center" src="[https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif]" />
             </td>
             <td>
                 <img width="400px" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mrprogramm3r&theme=react&hide_border=true" />
@@ -21,8 +20,3 @@
 
 ---
 
-## Github Trophies: 🏆️
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mrprogramm3r&theme=nord&hide_border=true&no-frame=true&row=1&column=7" alt="cifertech points"/>
-</p>
