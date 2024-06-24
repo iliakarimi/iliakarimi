@@ -12,7 +12,7 @@
     <table>
         <tr>
             <td>
-                <img width="800px" align="center" src="<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" alt="Fox" width="25" height="25" />
+                <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" alt="Fox" width="25" height="25" />
             </td>
             <td>
                 <img width="400px" align="center" src="" />
