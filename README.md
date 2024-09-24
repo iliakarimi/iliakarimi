@@ -10,7 +10,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mrprogramm3rr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrprogramm3rr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrprogramm3rr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrprogramm3rr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+<figure><embed src="https://wakatime.com/share/@499a1389-1e5c-4311-ad6a-5469d29d9893/02ae1cca-7805-4698-bad0-3114acad6abe.svg"></embed></figure>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mrprogramm3rr&theme=city_lights&no-frame=false&no-bg=true&margin-w=4)
