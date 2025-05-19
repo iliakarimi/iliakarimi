@@ -1,4 +1,4 @@
-# 💫 About Me:
+## About Me:
 👨‍💻 I'm a self-taught developer who learns by building real projects.<br>🚀 I enjoy exploring new technologies and creating things that feel alive in some way.<br>🤝 If you're into making stuff that's a bit different and full of character, I'd love to connect.<br>💡 Fun fact? I taught myself coding from scratch because I wanted to build something no one had made before.
 
 
