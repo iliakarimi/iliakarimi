@@ -12,11 +12,9 @@ I just like to know.
 
   ## You can help me by Donating: You don’t have to.  But if you want — here’s how.
   [![BuyMeACoffee 'Unavailable for now'](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20'Unavailable%20for%20now'-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iliakairmi) 
-  [![Coffete](https://img.shields.io/badge/Cofeete(iran)-ffd67d?style=for-the-badge&logoColor=black)](http://www.coffeete.ir/iliakarimi) 
-  [![Tether](https://img.shields.io/badge/Tether-00fa89?style=for-the-badge&logoColor=black)](ethereum:0xa6BEDE0fb31C113cEaA3fd14F6Ea0A3Fb10976d2)
-  [![Bitcoin](https://img.shields.io/badge/Bitcoin-fae100?style=for-the-badge&logoColor=black)](bitcoin:bc1qa3dt2kvyml8ezmkdhmn4z9mkjg9zwxdum76n6k)
+  [![Coffete](https://img.shields.io/badge/Cofeete(iran)-ffd67d?style=for-the-badge&logoColor=black)](http://www.coffeete.ir/iliakarimi)
 
-  **Wallet Addresses (for copy-paste):**
+  **Crypto:**
 
   - **Bitcoin:** `bc1qtsvqcue4205lv0ngjmsqsgrhprmlptk6ehz0ef`  
   - **Tether (Ethereum):** `0x193D50462f4A1Fd4c2f794E11871b8E90Ded79E8`
