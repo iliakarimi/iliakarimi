@@ -19,4 +19,5 @@ I just like to know.
   **Wallet Addresses (for copy-paste):**
 
   - **Bitcoin:** `bc1qtsvqcue4205lv0ngjmsqsgrhprmlptk6ehz0ef`  
-  - **Tether (ERC-20):** `0x193D50462f4A1Fd4c2f794E11871b8E90Ded79E8`
+  - **Tether (Ethereum):** `0x193D50462f4A1Fd4c2f794E11871b8E90Ded79E8`
+  - **Ethereum:** `0x193D50462f4A1Fd4c2f794E11871b8E90Ded79E8`
