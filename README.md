@@ -10,7 +10,7 @@ I just like to know.
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theiliakarimi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iliakarimi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/theiliakarimi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iliakarimi.dev@gmail.com) 
 
-  ## You can help me by Donating: You don’t have to.  But if you want — here’s how.
+  ## You can help me by Donating: You don’t have to.  But if you want — here’s how:
   [![BuyMeACoffee 'Unavailable for now'](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20'Unavailable%20for%20now'-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iliakairmi) 
   [![Coffete](https://img.shields.io/badge/Cofeete(iran)-ffd67d?style=for-the-badge&logoColor=black)](http://www.coffeete.ir/iliakarimi)
 
