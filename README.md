@@ -1,9 +1,4 @@
 # About Me:
-I write code.  
-Sometimes it works.  
-Sometimes it breaks.  
-Doesn’t matter. I keep building, Because I love solving problems.            
-I tinker with new tech.  
 I read and learn things no one asked me to.  
 I just like to know.
 
