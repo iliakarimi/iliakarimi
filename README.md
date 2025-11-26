@@ -7,7 +7,6 @@ I just like to know.
 
   ## You can help me by Donating: You don’t have to.  But if you want — here’s how:
   [![BuyMeACoffee 'Unavailable for now'](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20'Unavailable%20for%20now'-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iliakairmi) 
-  [![Coffete](https://img.shields.io/badge/Cofeete(iran)-ffd67d?style=for-the-badge&logoColor=black)](http://www.coffeete.ir/iliakarimi)
 
   **Crypto:**
 
