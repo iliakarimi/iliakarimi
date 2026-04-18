@@ -1,6 +1,8 @@
 # About Me:
 I read and learn things no one asked me to.  
 I just like to know.
+I like to create things that have never existed before.
+
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theiliakarimi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iliakarimi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/theiliakarimi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iliakarimi.dev@gmail.com) 
