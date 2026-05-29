@@ -12,6 +12,6 @@ I like to create things that have never existed before.
 
   **Crypto:**
 
-  - **Bitcoin:** `bc1qtsvqcue4205lv0ngjmsqsgrhprmlptk6ehz0ef`  
-  - **Tether (Ethereum):** `0x193D50462f4A1Fd4c2f794E11871b8E90Ded79E8`
-  - **Ethereum:** `0x193D50462f4A1Fd4c2f794E11871b8E90Ded79E8`
+  - **Bitcoin:** `bc1qke0x9vmwepr9aqkh7ar4ndvwdtjsxys347377r`  
+  - **Tether (Ethereum):** `0xE084f1eD5fAF8B676e8d0a7A951f2981Ac0516ea`
+  - **Ethereum:** `0xE084f1eD5fAF8B676e8d0a7A951f2981Ac0516ea`
