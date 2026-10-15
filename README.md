@@ -1,5 +1,5 @@
 # About Me:
-I read and learn things no one asked me to.  
+I learn things no one asked me to.  
 I just like to know.  
 I like to create things that have never existed before.
 
